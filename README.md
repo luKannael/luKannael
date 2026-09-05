@@ -1,6 +1,6 @@
 <!-- Banner opcional -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Lucas%20Anael&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=35&font=Montserrat"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A8D8A,100:2563EB&height=180&section=header&text=Lucas%20Anael&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=35&font=Montserrat"/>
 </p>
 
 ---
