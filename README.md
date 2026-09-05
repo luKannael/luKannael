@@ -5,17 +5,17 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 Atuo no desenvolvimento de produtos tecnológicos escaláveis, seguros e orientados a resultados, transformando ideias em soluções digitais robustas para negócios e inovação.
 
-- 🔍 Explorando criação de **Plataformas SaaS**, **Aplicações Desktop** e **Websites de Alto Desempenho**  
-- 🔨 Sempre construindo e evoluindo novos projetos
-- 💡 Sempre aprendendo novas tecnologias e aplicando em projetos reais  
-- 📫 Como me encontrar: [Instagram](https://www.instagram.com/llucasanael/) | [X (Twitter)](https://x.com/lucasanaell)
+- Explorando criação de **Plataformas SaaS**, **Aplicações Desktop** e **Websites de Alto Desempenho**  
+- Sempre construindo e evoluindo novos projetos
+- Sempre aprendendo novas tecnologias e aplicando em projetos reais  
+- Como me encontrar: [Linktree](https://linktr.ee/lucasanael)
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
