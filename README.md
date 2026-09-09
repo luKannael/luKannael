@@ -9,10 +9,9 @@
 ### Sobre mim
 
 <p>
-  Atuo no desenvolvimento de produtos tecnológicos escaláveis, seguros e orientados a resultados, transformando ideias em soluções digitais robustas para negócios e inovação.
+  Desenvolvo do jeito que gosto, tiro a ideia do papel, faço funcionar e vou lapidando no caminho
 </p>
 <ul>
-  <li>Explorando a criação de <strong>Plataformas SaaS</strong>, <strong>Aplicações Desktop</strong> e <strong>Websites de Alto Desempenho</strong></li>
   <li>Sempre construindo e evoluindo novos projetos</li>
   <li>Sempre aprendendo novas tecnologias e aplicando em projetos reais</li>
   <li>Como me encontrar: <a href="https://linktr.ee/lucasanael">Linktree</a></li>
