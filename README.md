@@ -7,7 +7,7 @@
 
 
 <p align="left">
-  <font size="5"><b><b>Sobre mim</b></b></font>
+  <b style="font-size: 40px;">Sobre mim</b>
 </p>
 Atuo no desenvolvimento de produtos tecnológicos escaláveis, seguros e orientados a resultados, transformando ideias em soluções digitais robustas para negócios e inovação.
 
