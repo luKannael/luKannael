@@ -1,14 +1,17 @@
-<!-- Banner opcional -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="middle">
-      <img src="https://raw.githubusercontent.com/lucasanael/lucasanael/main/logo.svg" width="80"/>
-    </td>
-    <td valign="middle">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171819,100:343638&height=180&section=header&animation=fadeIn&fontAlignY=35&font=Montserrat"/>
-    </td>
-  </tr>
-</table>
+<div align="center" style="position: relative; display: inline-block;">
+  <!-- Banner de fundo -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171819,100:343638&height=180&section=header&animation=fadeIn&fontAlignY=35&font=Montserrat" 
+       style="display: block; width: 100%; max-width: 100%;"/>
+  
+  <!-- Logo sobreposta (centralizada) -->
+  <img src="https://raw.githubusercontent.com/lucasanael/lucasanael/main/logo.svg" 
+       style="position: absolute; 
+              top: 50%; 
+              left: 50%; 
+              transform: translate(-50%, -50%); 
+              width: 80px; 
+              height: auto;"/>
+</div>
 
 
 
