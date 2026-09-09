@@ -6,7 +6,7 @@
 
 
 <p align="left">
-  <strong><font size="5">Sobre mim</font></strong>
+  <strong><font size="25">Sobre mim</font></strong>
 </p>
 Atuo no desenvolvimento de produtos tecnológicos escaláveis, seguros e orientados a resultados, transformando ideias em soluções digitais robustas para negócios e inovação.
 
@@ -18,7 +18,7 @@ Atuo no desenvolvimento de produtos tecnológicos escaláveis, seguros e orienta
 
 
 <p align="left">
-  <strong><font size="15">Tecnologias & Ferramentas</font></strong>
+  <strong><font size="25">Tecnologias & Ferramentas</font></strong>
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
