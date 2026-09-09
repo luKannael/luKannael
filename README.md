@@ -5,7 +5,7 @@
     alt="Lucas Anael"
   />
 </p>
-<p><strong>Sobre mim</strong></p>
+### Sobre mim
 
 <p>
   Atuo no desenvolvimento de produtos tecnológicos escaláveis, seguros e orientados a resultados, transformando ideias em soluções digitais robustas para negócios e inovação.
@@ -17,7 +17,7 @@
   <li>Como me encontrar: <a href="https://linktr.ee/lucasanael">Linktree</a></li>
 </ul>
 
-<p><strong>Tecnologias &amp; Ferramentas</strong></p>
+### Tecnologias & Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
