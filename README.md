@@ -6,7 +6,10 @@
 
 
 
-<h1 align="left">Sobre mim</h1>
+<div align="left">
+  <h1>Sobre mim</h1>
+</div>
+
 Atuo no desenvolvimento de produtos tecnológicos escaláveis, seguros e orientados a resultados, transformando ideias em soluções digitais robustas para negócios e inovação.
 
 - Explorando criação de **Plataformas SaaS**, **Aplicações Desktop** e **Websites de Alto Desempenho**  
