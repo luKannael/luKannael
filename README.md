@@ -5,7 +5,9 @@
 
 
 
-## Sobre mim
+<p align="left">
+  <strong><font size="5">Sobre mim</font></strong>
+</p>
 Atuo no desenvolvimento de produtos tecnológicos escaláveis, seguros e orientados a resultados, transformando ideias em soluções digitais robustas para negócios e inovação.
 
 - Explorando criação de **Plataformas SaaS**, **Aplicações Desktop** e **Websites de Alto Desempenho**  
@@ -27,7 +29,7 @@ Atuo no desenvolvimento de produtos tecnológicos escaláveis, seguros e orienta
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:343638,100:171819&height=120&section=footer"/>
