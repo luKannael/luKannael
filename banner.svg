@@ -5,7 +5,7 @@
      role="img"
      aria-labelledby="banner-title banner-description">
   <title id="banner-title">Lucas Anael</title>
-  <desc id="banner-description">Banner escuro com ondas animadas e a logo Lucas Anael centralizada.</desc>
+  <desc id="banner-description">Banner escuro com degradê estático e a logo Lucas Anael centralizada.</desc>
 
   <style>
     @keyframes fadeIn {
@@ -13,7 +13,7 @@
       to { opacity: 1; }
     }
 
-    #banner-content {
+    #banner-logo {
       animation: fadeIn 1.2s ease-in-out both;
     }
   </style>
@@ -29,38 +29,18 @@
     <!-- Fundo escuro para manter o banner legível mesmo quando o SVG é exibido isoladamente. -->
     <rect width="1200" height="180" fill="url(#background-gradient)" />
 
-    <!-- Caminhos do efeito waving do Capsule Render; os d iniciais são o fallback estático. -->
-    <path d="M0 0L0 100Q300 140 600 110T1200 135L1200 0Z"
-          fill="#4A4C4F"
-          opacity="0.46">
-      <animate attributeName="d"
-               dur="20s"
-               repeatCount="indefinite"
-               keyTimes="0;0.333;0.667;1"
-               calcMode="spline"
-               keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-               begin="0s"
-               values="M0 0L0 100Q300 140 600 110T1200 135L1200 0Z;M0 0L0 125Q300 140 600 120T1200 110L1200 0Z;M0 0L0 145Q300 115 600 145T1200 110L1200 0Z;M0 0L0 100Q300 140 600 110T1200 135L1200 0Z" />
-    </path>
-
-    <path d="M0 0L0 115Q300 160 600 130T1200 140L1200 0Z"
-          fill="#0D0E0F"
-          opacity="0.42">
-      <animate attributeName="d"
-               dur="20s"
-               repeatCount="indefinite"
-               keyTimes="0;0.333;0.667;1"
-               calcMode="spline"
-               keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-               begin="-10s"
-               values="M0 0L0 115Q300 160 600 130T1200 140L1200 0Z;M0 0L0 130Q300 100 600 100T1200 120L1200 0Z;M0 0L0 125Q300 105 600 130T1200 145L1200 0Z;M0 0L0 115Q300 160 600 130T1200 140L1200 0Z" />
-    </path>
-
     <!-- Conteúdo vetorial de logo.svg, incorporado diretamente e escalado para ~80px de largura. -->
-    <g transform="translate(560 60.7) scale(0.09195)"
+    <g id="banner-logo"
+       transform="translate(560 60.7) scale(0.09195)"
        fill="#F4F3EF">
       <path d="M221.036 284.009 H360.000 V810.977 H515.048 C562.762 811.147 574.484 782.439 616.917 726.631 C642.625 686.506 675.544 672.918 721.179 668.029 H802.561 L716.863 508.761 L560.367 751.924 C540.771 773.309 529.679 781.148 504.072 781.011 H412.478 L720.767 287.181 L1088.652 918.997 H935.480 L819.491 704.569 L631.325 919.991 H327.583 C267.785 919.659 220.346 874.674 220.956 812.396 Z"
             transform="translate(-220 -283)" />
+      <animate attributeName="opacity"
+               from="0"
+               to="1"
+               dur="1.2s"
+               begin="0s"
+               fill="freeze" />
     </g>
   </g>
 </svg>
