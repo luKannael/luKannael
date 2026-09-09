@@ -19,7 +19,7 @@ Atuo no desenvolvimento de produtos tecnológicos escaláveis, seguros e orienta
 
 
 <p align="left">
-  <strong><font size="5">Tecnologias & Ferramentas</font></strong>
+  <font size="5"><b><b>Tecnologias & Ferramentas</b></b></font>
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
