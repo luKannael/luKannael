@@ -5,7 +5,7 @@
      role="img"
      aria-labelledby="banner-title banner-description">
   <title id="banner-title">Lucas Anael</title>
-  <desc id="banner-description">Banner escuro com ondas suaves e a logo Lucas Anael centralizada.</desc>
+  <desc id="banner-description">Banner escuro com ondas animadas e a logo Lucas Anael centralizada.</desc>
 
   <style>
     @keyframes fadeIn {
@@ -23,7 +23,6 @@
       <stop offset="0%" stop-color="#171819" />
       <stop offset="100%" stop-color="#343638" />
     </linearGradient>
-
   </defs>
 
   <g id="banner-content">
@@ -32,8 +31,8 @@
 
     <!-- Caminhos do efeito waving do Capsule Render; os d iniciais são o fallback estático. -->
     <path d="M0 0L0 100Q300 140 600 110T1200 135L1200 0Z"
-          fill="url(#background-gradient)"
-          opacity="0.42">
+          fill="#4A4C4F"
+          opacity="0.46">
       <animate attributeName="d"
                dur="20s"
                repeatCount="indefinite"
@@ -45,8 +44,8 @@
     </path>
 
     <path d="M0 0L0 115Q300 160 600 130T1200 140L1200 0Z"
-          fill="url(#background-gradient)"
-          opacity="0.32">
+          fill="#0D0E0F"
+          opacity="0.42">
       <animate attributeName="d"
                dur="20s"
                repeatCount="indefinite"

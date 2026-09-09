@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/lucasanael/lucasanael/main/banner.svg"
+    src="https://raw.githubusercontent.com/lucasanael/lucasanael/main/banner.gif"
     width="100%"
     alt="Lucas Anael"
   />
