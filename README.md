@@ -5,13 +5,11 @@
     alt="Lucas Anael"
   />
 </p>
-
 <h2>Sobre mim</h2>
 
 <p>
   Atuo no desenvolvimento de produtos tecnológicos escaláveis, seguros e orientados a resultados, transformando ideias em soluções digitais robustas para negócios e inovação.
 </p>
-
 <ul>
   <li>Explorando a criação de <strong>Plataformas SaaS</strong>, <strong>Aplicações Desktop</strong> e <strong>Websites de Alto Desempenho</strong></li>
   <li>Sempre construindo e evoluindo novos projetos</li>
@@ -30,14 +28,4 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-<br />
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:343638,100:171819&height=120&section=footer"
-    width="100%"
-    alt="Footer"
-  />
 </p>
