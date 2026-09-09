@@ -6,6 +6,20 @@
 </p>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?
+  type=waving&
+  color=0:171819,100:343638&
+  height=220&
+  section=header&
+  text=Lucas%20Anael&
+  fontSize=44&
+  fontColor=F4F3EF&
+  animation=fadeIn&
+  fontAlignY=35&
+  icon=https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/logo.png&
+  icon_color=F4F3EF"/>
+</p>
 
 
 
