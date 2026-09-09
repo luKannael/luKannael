@@ -5,7 +5,7 @@
     alt="Lucas Anael"
   />
 </p>
-<h2>Sobre mim</h2>
+<p><strong>Sobre mim</strong></p>
 
 <p>
   Atuo no desenvolvimento de produtos tecnológicos escaláveis, seguros e orientados a resultados, transformando ideias em soluções digitais robustas para negócios e inovação.
@@ -17,7 +17,7 @@
   <li>Como me encontrar: <a href="https://linktr.ee/lucasanael">Linktree</a></li>
 </ul>
 
-<h2>Tecnologias &amp; Ferramentas</h2>
+<p><strong>Tecnologias &amp; Ferramentas</strong></p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -28,4 +28,14 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+<br />
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/lucasanael/lucasanael/main/footer.svg"
+    width="100%"
+    alt="Footer"
+  />
 </p>

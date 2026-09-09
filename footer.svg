@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="120"
+     viewBox="0 0 1200 120"
+     role="img"
+     aria-labelledby="footer-title footer-description">
+  <title id="footer-title">Lucas Anael</title>
+  <desc id="footer-description">Rodapé com ondas suaves em tons de cinza escuro.</desc>
+
+  <style>
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    #footer-content {
+      animation: fadeIn 1.2s ease-in-out both;
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="footer-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#171819" />
+      <stop offset="100%" stop-color="#343638" />
+    </linearGradient>
+  </defs>
+
+  <g id="footer-content">
+    <!-- Forma invertida do efeito waving do Capsule Render. -->
+    <path d="M0 120L0 80Q300 40 600 70T1200 45L1200 120Z"
+          fill="url(#footer-gradient)"
+          opacity="0.95">
+      <animate attributeName="d"
+               dur="20s"
+               repeatCount="indefinite"
+               keyTimes="0;0.333;0.667;1"
+               calcMode="spline"
+               keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+               begin="0s"
+               values="M0 120L0 80Q300 40 600 70T1200 45L1200 120Z;M0 120L0 55Q300 40 600 60T1200 70L1200 120Z;M0 120L0 35Q300 65 600 35T1200 70L1200 120Z;M0 120L0 80Q300 40 600 70T1200 45L1200 120Z" />
+    </path>
+
+    <path d="M0 120L0 65Q300 20 600 50T1200 40L1200 120Z"
+          fill="url(#footer-gradient)"
+          opacity="0.55">
+      <animate attributeName="d"
+               dur="20s"
+               repeatCount="indefinite"
+               keyTimes="0;0.333;0.667;1"
+               calcMode="spline"
+               keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+               begin="-10s"
+               values="M0 120L0 65Q300 20 600 50T1200 40L1200 120Z;M0 120L0 50Q300 80 600 80T1200 60L1200 120Z;M0 120L0 55Q300 75 600 50T1200 35L1200 120Z;M0 120L0 65Q300 20 600 50T1200 40L1200 120Z" />
+    </path>
+  </g>
+</svg>
