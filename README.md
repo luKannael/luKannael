@@ -6,7 +6,9 @@
 
 
 
-<p style="font-size: 24px; font-weight: 600; margin-bottom: 16px;">Sobre mim</p>
+<p align="left">
+  <font size="5"><b><b>Sobre mim</b></b></font>
+</p>
 Atuo no desenvolvimento de produtos tecnológicos escaláveis, seguros e orientados a resultados, transformando ideias em soluções digitais robustas para negócios e inovação.
 
 - Explorando criação de **Plataformas SaaS**, **Aplicações Desktop** e **Websites de Alto Desempenho**  
