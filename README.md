@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171819,100:343638&height=180&section=header&text=Lucas%20Anael&fontSize=44&fontColor=F4F3EF&animation=fadeIn&fontAlignY=35&font=Montserrat"/>
 </p>
 
----
+
 
 ## Sobre mim
 Atuo no desenvolvimento de produtos tecnológicos escaláveis, seguros e orientados a resultados, transformando ideias em soluções digitais robustas para negócios e inovação.
@@ -13,9 +13,9 @@ Atuo no desenvolvimento de produtos tecnológicos escaláveis, seguros e orienta
 - Sempre aprendendo novas tecnologias e aplicando em projetos reais  
 - Como me encontrar: [Linktree](https://linktr.ee/lucasanael)
 
----
 
-# Tecnologias & Ferramentas
+
+## Tecnologias & Ferramentas
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
