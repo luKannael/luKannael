@@ -6,7 +6,7 @@
 
 
 
-## Sobre mim
+### Sobre mim
 Atuo no desenvolvimento de produtos tecnológicos escaláveis, seguros e orientados a resultados, transformando ideias em soluções digitais robustas para negócios e inovação.
 
 - Explorando criação de **Plataformas SaaS**, **Aplicações Desktop** e **Websites de Alto Desempenho**  
@@ -16,9 +16,9 @@ Atuo no desenvolvimento de produtos tecnológicos escaláveis, seguros e orienta
 
 
 
-<p align="left">
-  <font size="5"><b><b>Tecnologias & Ferramentas</b></b></font>
-</p>
+
+### Tecnologias & Ferramentas</b>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
