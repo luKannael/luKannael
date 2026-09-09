@@ -6,9 +6,8 @@
 
 
 
-<div align="left">
-  <h1>Sobre mim</h1>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=171819&height=70&section=header&text=Sobre%20mim&fontSize=35&fontColor=F4F3EF"/>
+
 
 Atuo no desenvolvimento de produtos tecnológicos escaláveis, seguros e orientados a resultados, transformando ideias em soluções digitais robustas para negócios e inovação.
 
