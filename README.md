@@ -17,7 +17,7 @@
   fontColor=F4F3EF&
   animation=fadeIn&
   fontAlignY=35&
-  icon=https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/logo.png&
+  icon=https://raw.githubusercontent.com/lucasanael/lucasanael/banner.svg&
   icon_color=F4F3EF"/>
 </p>
 
