@@ -1,15 +1,7 @@
 <!-- Banner opcional -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171819,100:343638&height=180&section=header&text=Lucas%20Anael&fontSize=44&fontColor=F4F3EF&animation=fadeIn&fontAlignY=35&font=Montserrat"/>
-<p align="center">
-  <img src="la-isotipo-branco-mineral.svg" width="160"/>
-</p>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171819,100:343638&height=180&section=header&text=Lucas%20Anael&fontSize=44&fontColor=F4F3EF&animation=fadeIn&fontAlignY=35&font=Montserrat&icon=https://raw.githubusercontent.com/lucasanael/lucasanael/main/banner.svg"/>
 </p>
-
 
 
 ### Sobre mim
