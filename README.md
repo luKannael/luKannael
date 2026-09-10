@@ -14,7 +14,7 @@
 <ul>
   <li>Sempre construindo e evoluindo novos projetos</li>
   <li>Sempre aprendendo novas tecnologias e aplicando em projetos reais</li>
-  <li>Como me encontrar: <a href="https://linktr.ee/lucasanael">Linktree</a></li>
+  <!--<li>Como me encontrar: <a href="https://linktr.ee/lucasanael">Linktree</a></li>-->
 </ul>
 
 ### Tecnologias & Ferramentas
